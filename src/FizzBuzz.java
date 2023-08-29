@@ -1,5 +1,7 @@
 // 412. Fizz Buzz
 // Completed by Zachary Hopp 8/29/2023
+// Time Complexity = O(n)
+// Space Complexity = O(1)
 
 import java.util.ArrayList;
 import java.util.Arrays;
