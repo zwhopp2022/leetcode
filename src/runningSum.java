@@ -17,7 +17,7 @@ public class runningSum {
     // space complexity = O(1)
 }
 
-class Main {
+class runningSumMain {
     public static void main(String[] args) {
         int[] enter = new int[]{3, 0, 1, 2};
 
